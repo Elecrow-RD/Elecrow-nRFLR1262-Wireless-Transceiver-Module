@@ -58,4 +58,4 @@ https://www.elecrow.com/elecrow-nrflr1262-wireless-transceiver-module-integrates
 
 ##### Diagram:
 
-![nrflr1262_module3](F:\wiki\lorawan\Elecrow-nRFLR1262-Wireless-Transceiver-Module\git\nrflr1262_module3.jpg)
+![nrflr1262_module3](nrflr1262_module3.jpg)
